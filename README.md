@@ -1,6 +1,6 @@
 Utilities used:
-Stripe
-Neon - PostgresSQL DB
-Google Maps API
-Geoapify
+Stripe,
+Neon - PostgresSQL DB,
+Google Maps API,
+Geoapify,
 NativeWind
